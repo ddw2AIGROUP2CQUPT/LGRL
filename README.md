@@ -1,5 +1,6 @@
 # LGRL
 
+https://user-images.githubusercontent.com/107622162/197939613-a3944d69-a58a-4576-a4ea-9ab7f12ce77c.mp4
 
 **This repository is the official pytorch implementation of our paper, \*Sketch Less Face Image Retrieval: A New Challenge\*.**
 
@@ -34,4 +35,4 @@ coming soon......
 
 ## 📨 Contact
 
-This repo is currently maintained by Dawei Dai (dw_dai@163.com) and his master's student Yingge Liu (2018211556@stu.cqupt.edu.cn).
+This repo is currently maintained by Dawei Dai (dw_dai@163.com) and his master's student Yingge Liu (s200231105@stu.cqupt.edu.cn).

@@ -1,8 +1,9 @@
 # LGRL
+LOCAL-GLOBAL REPRESENTATION LEARNING FOR ON-THE-FLY FG-SBIR
 
 https://user-images.githubusercontent.com/107622162/197939613-a3944d69-a58a-4576-a4ea-9ab7f12ce77c.mp4
 
-**This repository is the official pytorch implementation of our paper, \*Sketch Less Face Image Retrieval: A New Challenge\*.**
+**This repository is the official pytorch implementation of our paper, \*LOCAL-GLOBAL REPRESENTATION LEARNING FOR ON-THE-FLY FG-SBIR\*.**
 
 ## 🌟 Pipeline
 

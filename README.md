@@ -9,7 +9,7 @@ https://user-images.githubusercontent.com/107622162/197939613-a3944d69-a58a-4576
 
 ![image-20221026125032094](README.assets/image-20221026125032094.png)
 
-## :floppy_disk: Dataset
+## 💾 Dataset
 
 We use two standard datasets as follows:
 
@@ -18,6 +18,10 @@ We use two standard datasets as follows:
 **The [QMUL-Chair-V2](http://sketchx.eecs.qmul.ac.uk/downloads/) dataset** contains 2000 sketches and 400 photos. A total of 1275 sketches and 300 photos were used to train the models, and the rest were used to test the models.
 
 ![image-20221026125703395](README.assets/image-20221026125703395.png)
+
+## 🧪 Example
+
+![example](README.assets/example.jpg)
 
 ## ⏳ To Do
 
